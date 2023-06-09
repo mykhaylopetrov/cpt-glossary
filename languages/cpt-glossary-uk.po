@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-21 15:31+0300\n"
+"PO-Revision-Date: 2022-04-21 15:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cpt-glossary.php:49 cpt-glossary.php:57
+msgid "Glossary Categories"
+msgstr ""
+
+#: cpt-glossary.php:50
+msgid "Glossary Category"
+msgstr ""
+
+#: cpt-glossary.php:51
+msgid "Search Glossary Categories"
+msgstr ""
+
+#: cpt-glossary.php:52
+msgid "All Glossary Categories"
+msgstr ""
+
+#: cpt-glossary.php:53
+msgid "Edit Glossary Category"
+msgstr ""
+
+#: cpt-glossary.php:54
+msgid "Update Glossary Category"
+msgstr ""
+
+#: cpt-glossary.php:55
+msgid "Add New Glossary Category"
+msgstr ""
+
+#: cpt-glossary.php:56
+msgid "New Glossary Category"
+msgstr ""
+
+#: cpt-glossary.php:84 cpt-glossary.php:85 cpt-glossary.php:96
+msgid "Glossary"
+msgstr ""
+
+#: cpt-glossary.php:86 cpt-glossary.php:87
+msgid "Add New Glossary"
+msgstr ""
+
+#: cpt-glossary.php:88
+msgid "Edit Glossary"
+msgstr ""
+
+#: cpt-glossary.php:89
+msgid "New Glossary"
+msgstr ""
+
+#: cpt-glossary.php:90
+msgid "All Glossary"
+msgstr ""
+
+#: cpt-glossary.php:91
+msgid "View Glossary"
+msgstr ""
+
+#: cpt-glossary.php:92
+msgid "Search Glossary"
+msgstr ""
+
+#: cpt-glossary.php:93
+msgid "No Glossary Found"
+msgstr ""
+
+#: cpt-glossary.php:94
+msgid "No Glossary found in Trash"
+msgstr ""
+
+#: cpt-glossary.php:95
+msgid "Parent Glossary:"
+msgstr ""
+
+#: cpt-glossary.php:187
+msgid "Home"
+msgstr "Головна"

@@ -1,0 +1,64 @@
+/* === GLOSSARY === */
+
+.glossary {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.glossary__item {
+    display: flex;
+    /* max-width: 1000px; */
+
+    padding-top: 25px;
+    padding-bottom: 25px; 
+
+    border-bottom: 1px solid black;
+}
+
+.glossary-item__letter {
+    margin-right: 70px;
+
+    font-size: 40px;
+    line-height: 78px;
+    width: 78px;
+    height: 78px;
+
+    text-align: center;
+
+    border-radius: 50%;
+    background: #dcdcdc;
+}
+
+.glossary-item__list {
+    list-style: none;
+
+    column-count: 2;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-width: 200px;
+
+    font-size: 20px;
+}
+
+/* .glossary-item__list a {
+    color: #000000;
+} */
+
+/* MOBILE */
+@media (max-width: 767px) {
+    .glossary__item {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .glossary-item__letter {
+        margin-right: 0;
+        margin-bottom: 20px;
+
+        font-size: 26px;
+        line-height: 46px;
+        width: 46px;
+        height: 46px;
+    }
+}
